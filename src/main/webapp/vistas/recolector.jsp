@@ -8,7 +8,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>PARCIAL</title>
+        <title>ARTE</title>
     </head>
     <body>
         <h1>Bienvenido a Oro Colombia</h1>
